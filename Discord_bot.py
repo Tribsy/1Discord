@@ -62,4 +62,4 @@ async def dmdmall(ctx, *args):
             pass
     print("Done!")
 
-bot.run("NjY3ODUzNTc3MTYyODUwMzE0.XiVw1Q.5psFbPvWjDqvx6UuFrCcKL3oyHs", bot=True)
+bot.run("process.env.token", bot=True)
